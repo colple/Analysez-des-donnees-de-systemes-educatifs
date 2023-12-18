@@ -29,5 +29,9 @@ Les données de la Banque Mondiale sont disponibles à l'adresse suivante: https
 3. La liste des librairies nécessaires à la réalisation du projet: requirements.txt.
 4. Le logo de la société sous format .png: logo_academy.png.
 
+## Compétences acquises
+1. Nettoyage des données
+2. Analyse exploratoire des données
+
 ## Auteur
 **colple** *(Coline Plé)*
