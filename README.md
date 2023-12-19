@@ -34,4 +34,4 @@ Les données de la Banque Mondiale sont disponibles à l'adresse suivante: https
 2. Analyse exploratoire des données
 
 ## Auteur
-**colple** *(Coline Plé)*
+**Coline Plé**
